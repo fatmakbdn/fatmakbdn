@@ -1,5 +1,5 @@
 # 🌎 Hello World!
-# Fatma | STEM Instructor | Frontend Developer
+# Fatma | STEM Educator | Frontend Developer
 
 ---
 
